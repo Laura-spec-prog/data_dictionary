@@ -7,3 +7,5 @@ These data represent the sort of data that might be obtained from the 2nd genera
 
 * id integer - A unique identifier for each person
 
+
+* IMD - index of whatever
