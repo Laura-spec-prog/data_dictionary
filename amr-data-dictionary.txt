@@ -1,6 +1,11 @@
 AMR data
 
+# Update from owner
 Last update on 2024/09/18 at 12:31
+
+# Update from collaborator
+Last update on 2044/09/18 at 19:54
+
 
 100,000 rows of 12 variabkes
 
